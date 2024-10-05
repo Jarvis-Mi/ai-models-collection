@@ -80,6 +80,17 @@ To train a model, simply run the corresponding `train.py` file in the `src/` fol
 ```bash
 python src/train.py --model cnn --epochs 50 --batch_size 32
 
+```
+
+
+Feedback, suggestions, collaborations, and contributions are highly encouraged! Feel free to reach out to me via:
+
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/mahdiajami/)
+- **Email**: [My Gmail Address](gw2.fighter@gmail.com)
+- **Instagram**: [My Instagram](@mjc.1400)
+
+If you use these projects or find them helpful, please share your thoughts or suggestions on how they can be improved. Let's work together to enhance these deep learning models and projects!
+
 
 
 
